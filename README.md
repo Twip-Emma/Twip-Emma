@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![](http://antzuhl.cn:4000/get/@Twip-Emma.readme)
-[![Rainbow cat's github stats](https://github-readme-stats.vercel.app/api?username=CodeHaotian&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Rainbow cat's github stats](https://github-readme-stats.vercel.app/api?username=Twip-Emma&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
