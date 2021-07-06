@@ -22,7 +22,7 @@ I'm **七画一只妖**
   - 巩固Java基础
   - 学习Spring/Springboot/Kotlin
   - 巩固Unity/C#知识
-  - 使用Java/Kotlin复刻Twip酱
+  - 使用Java/Kotlin复刻[Twip酱](https://github.com/Twip-Emma/QQbot-Twip)
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Twip-Emma&show_icons=true&theme=radical)<a href="#">
