@@ -1,7 +1,8 @@
 ### Hi 👋
 <!-- **Twip-Emma/Twip-Emma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started: -->
-<img align="right" src="http://m.qpic.cn/psc?/V11yYd8616VlST/45NBuzDIW489QBoVep5mcZaPnNvKMvfimBAhyCS7uMW6ge5YICWWb2kWmF8VHBRqhRTWEShlrTuZARSvjoUne6WqJBJfouP8*zJM4fxNYIM!/b&bo=OAQ4BAAAAAADZ0I!&rf=viewer_4" width='360px'>
+<!-- <img align="right" src="http://m.qpic.cn/psc?/V11yYd8616VlST/45NBuzDIW489QBoVep5mcVrY3B5*4j.1X*8ElBkLXnchuYOPE6JvKmcwafjohRJygM1Oqwmh4t8C3L2IjZyCbu4YoTKPsX0afeLJH0ll2hQ!/b&bo=OAQ4BAAAAAADZ0I!&rf=viewer_4" width='360px'> -->
+<img align="right" src="http://m.qpic.cn/psc?/V11yYd8616VlST/45NBuzDIW489QBoVep5mcYG0CqbMVYRJjyWXdPlWDevKzEmNfAYyjvgoOwlizmD0VxRnDrbhb99BadFmgG*WWCO3*ZFaitsdeMfpjSCb.5A!/b&bo=OARHBgAAAAADVw8!&rf=viewer_4" width='360px'>
 
 I'm **七画一只妖**
 - 🔭 I’m currently working on: student
@@ -22,13 +23,14 @@ I'm **七画一只妖**
   - 巩固Java基础
   - 学习Spring/Springboot/Kotlin
   - 巩固Unity/C#知识
-  - 使用Java/Kotlin复刻[Twip酱](https://github.com/Twip-Emma/QQbot-Twip)
+  - 使用Java/Kotlin复刻Twip酱
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Twip-Emma&show_icons=true&theme=radical)<a href="#">
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Twip-Emma&show_icons=true&theme=radical)
+
+<a href="#">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Twip-Emma&langs_count=8" />
 </a>
-
 
 
 ![](https://visitor-badge.glitch.me/badge?page_id=Twip-Emma.readme)
