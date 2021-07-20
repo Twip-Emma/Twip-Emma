@@ -17,7 +17,7 @@ I'm **七画一只妖**
 - 👯 Projects under maintenance
   - [【Nonebot】群聊机器人](https://github.com/Twip-Emma/QQbot-Twip)
 - 💬 Ask me about 
-  - [QQ联系](https://user.qzone.qq.com/1157529280/infocenter)
+  - [QQ联系](https://user.qzone.qq.com/1157529280/infocenter) 
   - [加入交流群](https://jq.qq.com/?_wv=1027&k=YpqmdjzH)
 - 😄 Short term goals
   - 巩固Java基础
