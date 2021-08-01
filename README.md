@@ -1,3 +1,11 @@
+<!--
+ * @Author: your name
+ * @Date: 2021-08-01 11:02:17
+ * @LastEditTime: 2021-08-01 11:03:34
+ * @LastEditors: Please set LastEditors
+ * @Description: In User Settings Edit
+ * @FilePath: \MarkDown\ShowMe.md
+-->
 ### Hi 👋
 <!-- **Twip-Emma/Twip-Emma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started: -->
@@ -25,12 +33,15 @@ I'm **七画一只妖**
   - 巩固Unity/C#知识
   - 使用Java/Kotlin复刻Twip酱
  
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Twip-Emma&show_icons=true&theme=radical)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Twip-Emma&langs_count=8)
 
-<a href="#">
+
+<!-- <a href="#">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Twip-Emma&langs_count=8" />
-</a>
+</a> -->
+
+
 
 
 ![](https://visitor-badge.glitch.me/badge?page_id=Twip-Emma.readme)
