@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2021-08-01 11:02:17
- * @LastEditTime: 2021-08-01 11:03:34
+ * @LastEditTime: 2021-08-01 13:12:12
  * @LastEditors: Please set LastEditors
  * @Description: In User Settings Edit
  * @FilePath: \MarkDown\ShowMe.md
@@ -19,11 +19,17 @@ I'm **七画一只妖**
    - ![](https://img.shields.io/badge/-Python-3e74a2?style=flat-square&logo=Python&logoColor=fff)
    ![](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=fff)
    ![](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=fff) 
+   ![](https://camo.githubusercontent.com/049c4470e5b55ec9aef3fe7ff680328ef03647a2a6ed65b42371f0765871968b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4b6f746c696e2d6f72616e67653f7374796c653d666c61742d737175617265266c6f676f3d4b6f746c696e266c6f676f436f6c6f723d666666)
    - ![](https://img.shields.io/badge/Windows10-0078d6?style=flat-square&logo=windows&logoColor=fff)
    ![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-007acc?style=flat-square&logo=visual-studio-code&logoColor=fff)
-   ![](https://img.shields.io/badge/-unity-000000?style=flat-square&logo=Unity&logoColor=fff)
+   ![](https://img.shields.io/badge/IDE-IntelliJ%20IDEA-007acc?style=flat-square&logo=visual-studio-code&logoColor=fff)
+   ![](https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=Unity&logoColor=fff)
+   ![](https://img.shields.io/badge/-spring-008000?style=flat-square&logo=Spring&logoColor=adff2f)
+   ![](https://img.shields.io/badge/-SpringBoot-008000?style=flat-square&logo=SpringBoot&logoColor=adff2f)
+   
 - 👯 Projects under maintenance
   - [【Nonebot】群聊机器人](https://github.com/Twip-Emma/QQbot-Twip)
+  - [【simpler-robot BOT】群聊机器人](https://github.com/Twip-Emma/QQbot-Emma)
 - 💬 Ask me about 
   - [QQ联系](https://user.qzone.qq.com/1157529280/infocenter) 
   - [加入交流群](https://jq.qq.com/?_wv=1027&k=YpqmdjzH)
@@ -33,9 +39,8 @@ I'm **七画一只妖**
   - 巩固Unity/C#知识
   - 使用Java/Kotlin复刻Twip酱
  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Twip-Emma&show_icons=true&theme=radical)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Twip-Emma&langs_count=8)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Twip-Emma&show_icons=true&theme=radical)![](https://github-readme-stats.vercel.app/api/top-langs/?username=Twip-Emma&langs_count=8)
 
 <!-- <a href="#">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Twip-Emma&langs_count=8" />
