@@ -17,9 +17,7 @@ Here are some ideas to get you started: -->
 <img align="right" src="http://m.qpic.cn/psc?/V11yYd8616VlST/45NBuzDIW489QBoVep5mcThlXaBpXoQduJI6ep2Ab1BpYbIuYJ06rmp*0V1NIiyqeL3qGxLG97Ngo7UD1sMOu6wlKVs5mNfyjJIMbiMl8kQ!/b&bo=QAZdCGAJjAwDWYY!&rf=viewer_4" width="360px">
 
 I'm **七画一只妖**
-- 🔭 I’m currently working on: student
-- 🌱 I’m currently learning :Python,java,kotlin
-- ⚡ Common tools/Language/System
+
    - ![](https://img.shields.io/badge/-Python-3e74a2?style=flat-square&logo=Python&logoColor=fff)
    ![](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=fff)
    ![](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=fff) 
