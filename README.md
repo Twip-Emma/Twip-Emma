@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2021-08-01 11:02:17
- * @LastEditTime: 2021-10-15 17:56:22
+ * @LastEditTime: 2021-10-15 18:00:22
  * @LastEditors: 七画一只妖
  * @Description: In User Settings Edit
  * @FilePath: \MarkDown\ShowMe.md
@@ -32,7 +32,9 @@ I'm **七画一只妖**
 
  
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Twip-Emma&show_icons=true&theme=radical)![](https://github-readme-stats.vercel.app/api/top-langs/?username=Twip-Emma&langs_count=8)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Twip-Emma&show_icons=true&theme=radical)
+
+<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Twip-Emma&langs_count=8) -->
 
 <!-- <a href="#">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Twip-Emma&langs_count=8" />
