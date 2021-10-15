@@ -17,7 +17,8 @@ Here are some ideas to get you started: -->
 <img align="right" src="http://m.qpic.cn/psc?/V11yYd8616VlST/45NBuzDIW489QBoVep5mcThlXaBpXoQduJI6ep2Ab1BpYbIuYJ06rmp*0V1NIiyqeL3qGxLG97Ngo7UD1sMOu6wlKVs5mNfyjJIMbiMl8kQ!/b&bo=QAZdCGAJjAwDWYY!&rf=viewer_4" width="360px">
 
 I'm **七画一只妖**
-
+- 🔭 I’m currently working on: student
+- ⚡ Common tools/Language/System
    - ![](https://img.shields.io/badge/-Python-3e74a2?style=flat-square&logo=Python&logoColor=fff)
    ![](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=fff)
    ![](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=fff) 
@@ -30,8 +31,8 @@ I'm **七画一只妖**
    ![](https://img.shields.io/badge/-SpringBoot-008000?style=flat-square&logo=SpringBoot&logoColor=adff2f)
 
  
-<!-- 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Twip-Emma&show_icons=true&theme=radical)![](https://github-readme-stats.vercel.app/api/top-langs/?username=Twip-Emma&langs_count=8) -->
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Twip-Emma&show_icons=true&theme=radical)![](https://github-readme-stats.vercel.app/api/top-langs/?username=Twip-Emma&langs_count=8)
 
 <!-- <a href="#">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Twip-Emma&langs_count=8" />
