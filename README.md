@@ -6,7 +6,7 @@
  * @Description: In User Settings Edit
  * @FilePath: \MarkDown\ShowMe.md
 -->
-![](http://cdngoapl.twip.top/%E8%8A%99%E6%B4%9B%E8%8E%B1_%E7%9A%AE%E8%82%A425%25_%E5%86%8D%E5%8E%8B%E7%BC%A9.png)
+<!-- ![](http://cdngoapl.twip.top/%E8%8A%99%E6%B4%9B%E8%8E%B1_%E7%9A%AE%E8%82%A425%25_%E5%86%8D%E5%8E%8B%E7%BC%A9.png) -->
 ![](https://visitor-badge.glitch.me/badge?page_id=Twip-Emma.readme)
 ### Hi 👋
 <!-- **Twip-Emma/Twip-Emma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
