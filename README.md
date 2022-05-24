@@ -36,7 +36,7 @@ I'm **七画一只妖**
 
  
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Twip-Emma&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Twip-Emma&show_icons=true&theme=radical&count_private=true)
 
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Twip-Emma&langs_count=8) -->
 
